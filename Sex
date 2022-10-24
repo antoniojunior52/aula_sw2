@@ -9,6 +9,7 @@
         <fieldset style="width: 40% ;">
             <legend>
                 Dados Pessoais
+                Sexo e transa
             </legend>
             <label>Nome <input type="text" name="txtnome" size="50" required><br></label>
             <label>Sobrenome <input type="text" name="txtsobrenome" size="50" required><br></label>
